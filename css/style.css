@@ -389,23 +389,23 @@ section.contact .btn-wrapper{
 footer{
     background: var(--dark);
     text-align: center;
-    padding: 2rem 0;
+    padding: 0.5rem 0;
 }
 footer .footer-logo{
-    height: 65px;
-    width: 100px;
-    margin-bottom: 1rem;
+    height: 55px;
+    width: 80px;
+    margin-bottom: 0.5rem;
 }
 footer .footer-socials a{
     margin-right: 1rem;
 }
 footer .footer-socials{
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     margin-right: -1rem;
 }
 footer .footer-socials a img{
-    width: 45px;
-    height: 45px;
+    width: 35px;
+    height: 35px;
     padding: 0.5rem;
     border-radius: 40%;
 }
@@ -413,5 +413,6 @@ footer .footer-socials a img:hover{
     background-color: var(--primary);
 }
 footer .copyright{
+    font-size: 0.8rem;
     color: var(--ternary);
 }
